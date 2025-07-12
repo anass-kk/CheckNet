@@ -26,4 +26,4 @@ python app.py
 Para detener el programa, presiona `Ctrl+C`.
 
 
-## By sAnass
+## By Anass
