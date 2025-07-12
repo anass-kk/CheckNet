@@ -1,2 +1,29 @@
 # CheckNet
-CheckNet es un sistema de monitoreo de red en tiempo real diseñado para supervisar el estado de dispositivos de red (switches, impresoras, firewalls, etc.) mediante pruebas de conectividad (ping) periódicas. Proporciona una interfaz web intuitiva y una versión de consola para administradores de red.
+
+Este programa permite monitorizar la red en tiempo real, mostrando:
+- Estado de la conexión
+- Tiempo de respuesta (latencia)
+- Estadísticas de uso de red (datos enviados y recibidos)
+
+## Requisitos
+- Python 3.11.4
+- Paquetes especificados en requirements.txt
+
+## Instalación
+
+1. Instalar las dependencias:
+```
+pip install -r requirements.txt 
+```
+
+## Uso
+
+Para iniciar el monitoreo, ejecuta:
+```
+python app.py
+```
+
+Para detener el programa, presiona `Ctrl+C`.
+
+
+## By sAnass
